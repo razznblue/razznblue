@@ -62,7 +62,7 @@
   ## Spotify
 
   <!-- ![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1) -->
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=10&width=500&unique={true|1|on|yes})
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=7&width=500&unique=true)
 
 
   <!-- Resources -->
@@ -70,3 +70,4 @@
   <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
   <!-- Shields: https://shields.io/ -->
   <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+  <!-- SPOTIFY on README https://github.com/JeffreyCA/spotify-recently-played-readme -->
