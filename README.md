@@ -14,8 +14,8 @@
       "Software Engineer"
   ]
   technical_fields: [
-      "Web development",
-      "Back-end systems",
+      "Programming languages",
+      "Full-stack development",
       "Databases"
   ]
 
