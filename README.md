@@ -10,7 +10,6 @@
       "Bachelor's in Computer Science"
   ]
   technical_background: [
-      "Junior Software Engineer",
       "Software Engineer"
   ]
   technical_fields: [
@@ -21,7 +20,8 @@
 
   currently_building: [
     "A JetSetRadio-API with Node.js",
-    "A Weather-Service utilizing Twilio APIs"
+    "A Weather-Service utilizing Twilio APIs",
+    "A Hidden Object game using Next.js"
   ]
   currently_learning: [ "Elasticsearch", "Quarkus Framework", "Apache Kafka" ]
   hobbies: [ "Gaming", "Hiking", "Movies", "Music", "Food" ]
