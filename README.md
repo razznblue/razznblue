@@ -2,7 +2,6 @@
   # Hello There!
 
   ```yaml
-  name: James
   current_job: Software Engineer
 
   education: [
@@ -61,7 +60,7 @@
   ## Spotify
 
   <!-- ![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1) -->
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=7&width=500&unique=true)
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=5&width=500&unique=true)
 
 
   <!-- Resources -->
