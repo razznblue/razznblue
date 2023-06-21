@@ -13,6 +13,7 @@
   ]
   technical_fields: [
       "Programming languages",
+      "Game Development"
       "Full-stack development",
       "Databases"
   ]
