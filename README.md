@@ -18,10 +18,10 @@
   ]
   
   currently_building: [
-    "A Weather-Service utilizing Twilio APIs",
-    "A Hidden Object game using Next.js"
+    "A Hidden Object game using Next.js",
+    "An FPS game using Typescript and THREE.js"
   ]
-  currently_learning: [ "Elasticsearch", "Quarkus Framework", "Apache Kafka" ]
+  currently_learning: [ "THREE.js", "RabbitMQ" ]
   hobbies: [ "Gaming", "Hiking", "Movies", "Music", "Food" ]
   ```
 
