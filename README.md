@@ -20,10 +20,9 @@
   
   currently_building: [
     "A Hidden Object game using Next.js",
-    "An FPS game using Typescript and THREE.js"
   ]
   currently_learning: [ "THREE.js", "RabbitMQ" ]
-  hobbies: [ "Gaming", "Hiking", "Movies", "Music", "Food" ]
+  hobbies: [ "Gaming", "Hiking", "Movies", "Music", "Sports" ]
   ```
 
   ## 🔧 Technologies I have used or learned
