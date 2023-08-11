@@ -15,12 +15,21 @@
       "Programming languages",
       "Game Development"
       "Full-stack development",
-      "Databases"
+      "Databases",
+      "Third-party integrations"
   ]
   
   currently_building: [
     "A Hidden Object game using Next.js",
     "A Bomb Rush Cyberfunk API"
+  ]
+  project_ideas: [
+    "Sheet Music API. Sheet Music PDF <--> JSON Format",
+    "Volunteer API and information platform. Allow external sharing",
+    "Feedback Form with questions for artists to get feedback on their works in progress",
+    "Site generator based on csv/json file",
+    "Youtube Music recently listened generator for README",
+    "Trading card game with custom characters, lore, and locations"
   ]
   currently_learning: [ "Next.js", "RabbitMQ", "Socket.io" ]
   hobbies: [ "Gaming", "Hiking", "Movies", "Music", "Sports" ]
