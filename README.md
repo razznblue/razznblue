@@ -20,8 +20,9 @@
   
   currently_building: [
     "A Hidden Object game using Next.js",
+    "A Bomb Rush Cyberfunk API"
   ]
-  currently_learning: [ "THREE.js", "RabbitMQ" ]
+  currently_learning: [ "Next.js", "RabbitMQ", "Socket.io" ]
   hobbies: [ "Gaming", "Hiking", "Movies", "Music", "Sports" ]
   ```
 
@@ -34,6 +35,7 @@
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-Nest_JS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Tools-Next_JS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
@@ -48,14 +50,13 @@
 
   ## &#x1f4c8; GitHub Stats
 
+  <!-- Github Stats -->
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razznblue&hide=stars&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!---<a href="https://github.com/RazzNBlue/RazzNBlue">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazzNBlue&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <!-- Most Used Languages -->
+  <a href="https://github.com/RazzNBlue/RazzNBlue">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=RazzNBlue&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>
-   <a href="https://github.com/RazzNBlue/RazzNBlue">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazzNBlue&show_icons=false&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-  </a> -->
 
 
 
@@ -65,7 +66,7 @@
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=5&width=500&unique=true)
 
 
-  <!-- Resources -->
+  <!-- References -->
   <!-- Icons: https://simpleicons.org/ -->
   <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
   <!-- Shields: https://shields.io/ -->
