@@ -35,6 +35,13 @@
   hobbies: [ "Gaming", "Hiking", "Movies", "Music", "Sports" ]
   ```
 
+  ## Blog
+<!-- <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=underwatertribes&theme=cobalt"/> -->
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1" alt="Recent Article 2"> 
+
+
   ## 🔧 Technologies I have used or learned
   ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
