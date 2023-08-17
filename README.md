@@ -37,9 +37,9 @@
 
   ## Blog
 <!-- <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=underwatertribes&theme=cobalt"/> -->
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/0" alt="Recent Article 0"> 
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1" alt="Recent Article 2"> 
 
 
   ## 🔧 Technologies I have used or learned
