@@ -20,7 +20,7 @@
   ]
   
   currently_building: [
-    "A Next.js website focused on helping those affected by the Maui fires",
+    "A Bomb Rush Cyberfunk API",
     "A Hidden Object game using Next.js"
   ]
   project_ideas: [
