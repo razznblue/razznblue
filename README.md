@@ -30,7 +30,7 @@
     "Trading card game with custom characters, lore, and locations"
   ]
   currently_learning: [ "Next.js", "RabbitMQ", "Socket.io" ]
-  hobbies: [ "Gaming", "Music", "Movies", "Sports" ]
+  hobbies: [ "Gaming", "Music", "Movies", "Skating" ]
   ```
 
   ## Blog
