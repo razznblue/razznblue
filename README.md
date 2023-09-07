@@ -2,7 +2,7 @@
   # Hello There!
 
   ```yaml
-  current_job: Software Engineer
+  title: Software Engineer
 
   education: [
       "Self-taught developer and problem solver",
