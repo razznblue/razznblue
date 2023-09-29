@@ -13,19 +13,20 @@
   ]
   technical_fields: [
       "Programming languages",
-      "Game Development"
+      "Game Development",
       "Full-stack development",
       "Databases",
-      "Third-party integrations"
+      "Integrations"
   ]
   
   currently_building: [
-    "A Bomb Rush Cyberfunk API",
-    "A Hidden Object game using Next.js"
+    "A Hidden Object game using Next.js",
+    "Bomb Rush Cyberfunk API"
   ]
   project_ideas: [
     "Chord Progression Generator",
-    "Feedback Form with questions for artists to get feedback on their works in progress",
+    "Speaking and Assertiveness Practice",
+    "Feedback Form with questions for artists to get feedback from audience on their in-progress works",
     "Youtube Music recently listened generator for README",
     "Trading card game with custom characters, lore, and locations"
   ]
