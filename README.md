@@ -12,16 +12,15 @@
       "Software Engineer"
   ]
   technical_fields: [
-      "Programming languages",
       "Game Development",
       "Full-stack development",
-      "Databases",
-      "Integrations"
+      "Relational/Non-Relational Databases",
+      "Third-Party Integrations"
   ]
   
   currently_building: [
     "A Hidden Object game using Next.js",
-    "Bomb Rush Cyberfunk API"
+    "A Card game using Typescript"
   ]
   project_ideas: [
     "Chord Progression Generator",
@@ -30,15 +29,15 @@
     "Youtube Music recently listened generator for README",
     "Trading card game with custom characters, lore, and locations"
   ]
-  currently_learning: [ "Next.js", "RabbitMQ", "Socket.io" ]
+  currently_learning: [ "Next.js", "Database Design" ]
   hobbies: [ "Gaming", "Music", "Movies", "Skating" ]
   ```
 
-  ## Blog
-<!-- <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=underwatertribes&theme=cobalt"/> -->
+  <!-- ## Blog
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=underwatertribes&theme=cobalt"/>
    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1" alt="Recent Article 2"> -->
 
 
   ## 🔧 Technologies I have used or learned
@@ -63,20 +62,21 @@
 
 
 
-  ## &#x1f4c8; GitHub Stats
+  <!-- ## &#x1f4c8; GitHub Stats
 
-  <!-- Github Stats -->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razznblue&hide=stars&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razznblue&hide=stars&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 
-  <!-- Most Used Languages -->
+  <!--- Most Used Languages -->
   <a href="https://github.com/RazzNBlue/RazzNBlue">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazzNBlue&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  </a>
+  </a>        
 
 
+  <br /><p></p>
 
   <!--## Spotify -->
-  <!-- ![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1) -->
+  ![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1)
   <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=5&width=500&unique=true) -->
 
 
