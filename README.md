@@ -20,7 +20,8 @@
   
   currently_building: [
     "A Hidden Object game using Next.js",
-    "A Card game using Typescript"
+    "A Card game using Typescript",
+    "A CronJob-Service to schedule jobs for other services, send emails, etc."
   ]
   project_ideas: [
     "Chord Progression Generator",
