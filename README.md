@@ -15,7 +15,8 @@
       "Game Development",
       "Full-stack development",
       "Relational/Non-Relational Databases",
-      "Third-Party Integrations"
+      "Third-Party Integrations",
+      "Microservice Architecture"
   ]
   
   currently_building: [
@@ -30,7 +31,7 @@
     "Youtube Music recently listened generator for README",
     "Trading card game with custom characters, lore, and locations"
   ]
-  currently_learning: [ "Next.js", "Database Design" ]
+  currently_learning: [ "Next.js", "Unity" ]
   hobbies: [ "Gaming", "Music", "Movies", "Skating" ]
   ```
 
