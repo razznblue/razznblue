@@ -75,11 +75,11 @@
   </a>        
 
   ## 🛠️ My micro-services
-  [![Service Status](https://img.shields.io/website?url=https://asset-service-drive.onrender.com&label=asset-service)](https://asset-service-drive.onrender.com)      
-  [![Service Status](https://img.shields.io/website?url=https://cron-job-service.fly.dev&label=cron-job-service)](https://cron-job-service.fly.dev)
+  [![Service Status](https://img.shields.io/website?url=https://asset-service-drive.onrender.com&label=asset-service&logo=Render)](https://asset-service-drive.onrender.com)      
+  [![Service Status](https://img.shields.io/website?url=https://cron-job-service.fly.dev&label=cron-job-service&logo=Node.js)](https://cron-job-service.fly.dev)
 
 
-  ## Fun Stuff
+  ## 🙃 Fun Stuff
   ![](https://komarev.com/ghpvc/?username=razznblue)
 
   <!--## Spotify -->
