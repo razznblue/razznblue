@@ -69,14 +69,18 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razznblue&hide=stars&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <!--- Most Used Languages -->
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
-    <br /><p></p>
+  <br /><p></p>
   <a href="https://github.com/RazzNBlue/RazzNBlue">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazzNBlue&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>        
 
+  ## 🛠️ My micro-services
+  [![Service Status](https://img.shields.io/website?url=https://asset-service-drive.onrender.com&label=asset-service)](https://asset-service-drive.onrender.com)      
+  [![Service Status](https://img.shields.io/website?url=https://cron-job-service.fly.dev&label=cron-job-service)](https://cron-job-service.fly.dev)
 
-  <br /><p></p>
+
+  ## Fun Stuff
+  ![](https://komarev.com/ghpvc/?username=razznblue)
 
   <!--## Spotify -->
   ![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=5&width=500&unique=true)
