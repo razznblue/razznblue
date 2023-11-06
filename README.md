@@ -21,8 +21,7 @@
   
   currently_building: [
     "A Hidden Object game using Next.js",
-    "A Card game using Typescript",
-    "A CronJob-Service to schedule jobs for other services, send emails, etc."
+    "My personal microservice architecture(asset-service, cron-job-service, authentication-service, etc.)"
   ]
   project_ideas: [
     "Chord Progression Generator",
