@@ -69,6 +69,8 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razznblue&hide=stars&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <!--- Most Used Languages -->
+  ![](https://komarev.com/ghpvc/?username=your-github-username)
+    <br /><p></p>
   <a href="https://github.com/RazzNBlue/RazzNBlue">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazzNBlue&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>        
