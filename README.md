@@ -21,17 +21,17 @@
   
   currently_building: [
     "A Hidden Object game using Next.js",
-    "My personal microservice architecture(asset-service, cron-job-service, authentication-service, etc.)"
+    "A Web App to help you improve your assertiveness and speaking ability",
+    "Maintaining my personal microservice architecture(asset-service, cron-job-service, authentication-service, etc.)"
   ]
   project_ideas: [
     "Chord Progression Generator",
-    "Speaking and Assertiveness Practice",
     "Feedback Form with questions for artists to get feedback from audience on their in-progress works",
     "Youtube Music recently listened generator for README",
     "Trading card game with custom characters, lore, and locations"
   ]
-  currently_learning: [ "Next.js", "Unity" ]
-  hobbies: [ "Gaming", "Music", "Movies", "Skating" ]
+  currently_learning: [ "Next.js", "Docker" ]
+  hobbies: [ "Gaming", "Music", "Movies", "Skating", "Basketball" ]
   ```
 
   <!-- ## Blog
