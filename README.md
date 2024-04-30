@@ -30,7 +30,7 @@
     "Youtube Music recently listened generator for README",
     "Trading card game with custom characters, lore, and locations"
   ]
-  currently_learning: [ "Next.js", "Docker" ]
+  currently_learning: [ "Redux Toolkit", "Next.js" ]
   hobbies: [ "Gaming", "Music", "Movies", "Skating", "Basketball" ]
   ```
 
@@ -49,6 +49,7 @@
   ![](https://img.shields.io/badge/Code-Quarkus(Java)-informational?style=flat&logo=quarkus&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-Nest_JS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-Next_JS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
