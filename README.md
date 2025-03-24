@@ -12,24 +12,20 @@
       "Software Engineer"
   ]
   technical_fields: [
-      "Game Development",
       "Full-stack development",
       "Relational/Non-Relational Databases",
       "Third-Party Integrations",
-      "Microservice Architecture"
+      "Microservice/Monolith Architectures",
+      "Game Development",
   ]
   
-  currently_building: [
-    "A Hidden Object game using Next.js",
-    "A Web App to help you improve your assertiveness and speaking ability"
-  ]
   project_ideas: [
     "Chord Progression Generator",
     "Feedback Form with questions for artists to get feedback from audience on their in-progress works",
     "Youtube Music recently listened generator for GitHub README",
     "Trading card game with custom characters, lore, and locations"
   ]
-  currently_learning: [ "Redux Toolkit", "Next.js" ]
+  currently_learning: [ "Next.js", "Prisma" ]
   hobbies: [ "Gaming", "Music", "Movies", "Skating", "Basketball" ]
   ```
 
@@ -74,9 +70,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazzNBlue&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>        
 
-  ## 🛠️ My micro-services
+  <!-- ## 🛠️ My micro-services
   [![Service Status](https://img.shields.io/website?url=https://asset-service-drive.onrender.com&label=asset-service&logo=Render)](https://asset-service-drive.onrender.com)      
-  [![Service Status](https://img.shields.io/website?url=https://cron-job-service.fly.dev&label=cron-job-service&logo=Node.js)](https://cron-job-service.fly.dev)
+  [![Service Status](https://img.shields.io/website?url=https://cron-job-service.fly.dev&label=cron-job-service&logo=Node.js)](https://cron-job-service.fly.dev) -->
 
 
   ## 🙃 Fun Stuff
