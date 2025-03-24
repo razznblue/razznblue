@@ -20,12 +20,12 @@
   ]
   
   project_ideas: [
-    "Chord Progression Generator",
+    "Music Chord Progression Generator",
     "Feedback Form with questions for artists to get feedback from audience on their in-progress works",
     "Youtube Music recently listened generator for GitHub README",
     "Trading card game with custom characters, lore, and locations"
   ]
-  currently_learning: [ "Next.js", "Prisma" ]
+  currently_learning: [ "Next.js 15", "Prisma" ]
   hobbies: [ "Gaming", "Music", "Movies", "Skating", "Basketball" ]
   ```
 
