@@ -1,6 +1,8 @@
 
   # Hello There!
 
+👋 I’m a self-taught software engineer with a passion for building robust full-stack systems and experimenting with creative tools, from games to utilities that help improve communication and speaking skills. I enjoy solving real-world problems and diving into new technologies. This space is where I share and grow my ideas.
+
   ```yaml
   title: Software Engineer
 
