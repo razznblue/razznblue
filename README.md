@@ -4,31 +4,32 @@
 👋 I’m a self-taught software engineer with a passion for building robust full-stack systems and experimenting with creative tools, from games to utilities that help improve communication and speaking skills. I enjoy solving real-world problems and diving into new technologies. This space is where I share and grow my ideas.
 
   ```yaml
-  title: Software Engineer
+  title: Software Engineer,
 
   education: [
       "Self-taught developer and problem solver",
       "Bachelor's in Computer Science"
-  ]
+  ],
   technical_background: [
-      "Software Engineer"
-  ]
+      "Software Engineer with experience in API design, full-stack web apps, databases, and creative coding projects"
+  ],
   technical_fields: [
       "Full-stack development",
       "Relational/Non-Relational Databases",
       "Third-Party Integrations",
       "Microservice/Monolith Architectures",
       "Game Development",
-  ]
+  ].
   
   project_ideas: [
     "Music Chord Progression Generator",
     "Feedback Form with questions for artists to get feedback from audience on their in-progress works",
     "Youtube Music recently listened generator for GitHub README",
-    "Trading card game with custom characters, lore, and locations"
-  ]
-  currently_learning: [ "Next.js 15", "Prisma" ]
-  hobbies: [ "Gaming", "Music", "Movies", "Skating", "Basketball" ]
+    "Trading card game with custom characters, lore, and locations",
+    "Simple Analytics Dashboard for personal projects"
+  ],
+  currently_learning: [ "google-genai", "Cursor", "Junie" ],
+  hobbies: [ "Music", "Gaming", "Basketball", "Skating", "Movies/Shows" ]
   ```
 
   <!-- ## Blog
