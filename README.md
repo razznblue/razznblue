@@ -11,15 +11,30 @@
       "Bachelor's in Computer Science"
   ],
   technical_background: [
-      "Software Engineer with experience in API design, full-stack web apps, databases, and creative coding projects"
+      {
+        "title": "Software Engineer",
+        "experience": [
+            "API Design",
+            "Full-Stack Web Application Development",
+            "Database Design & Management",
+            "Creative Coding Projects"
+      },
+      {
+        "title": "Web Developer",
+        "experience": [
+            "Building Client Websites",
+            "Using CMS platforms such as Squarspace, Webflow, etc.",
+            "Client Collaborations & Communication"
+      }
   ],
   technical_fields: [
+      "Web Development",
       "Full-stack development",
       "Relational/Non-Relational Databases",
       "Third-Party Integrations",
       "Microservice/Monolith Architectures",
       "Game Development",
-  ].
+  ],
   
   project_ideas: [
     "Music Chord Progression Generator",
