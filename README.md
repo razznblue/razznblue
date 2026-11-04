@@ -14,10 +14,9 @@
       {
         "title": "Software Engineer",
         "experience": [
-            "API Design",
             "Full-Stack Web Application Development",
-            "Database Design & Management",
-            "Creative Coding Projects"
+            "API Design",
+            "Database Design & Management"
       },
       {
         "title": "Web Developer",
@@ -28,8 +27,8 @@
       }
   ],
   technical_fields: [
-      "Web Development",
       "Full-stack development",
+      "Web Development",
       "Relational/Non-Relational Databases",
       "Third-Party Integrations",
       "Microservice/Monolith Architectures",
@@ -44,7 +43,7 @@
     "Simple Analytics Dashboard for personal projects"
   ],
   currently_learning: [ "google-genai", "Cursor", "Junie" ],
-  hobbies: [ "Music", "Gaming", "Basketball", "Skating", "Movies/Shows" ]
+  hobbies: [ "Music", "Gaming", "Basketball", "Volleyball", "Movies/Shows" ]
   ```
 
   <!-- ## Blog
@@ -52,6 +51,8 @@
    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/0" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@underwatertribes/1" alt="Recent Article 2"> -->
+
+  ![](https://komarev.com/ghpvc/?username=razznblue)
 
 
   ## 🔧 Technologies I have used or learned
@@ -83,22 +84,21 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razznblue&hide=stars&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <!--- Most Used Languages -->
-  <br /><p></p>
+  <!-- <br /><p></p>
   <a href="https://github.com/RazzNBlue/RazzNBlue">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazzNBlue&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  </a>        
+  </a>  -->      
 
   <!-- ## 🛠️ My micro-services
   [![Service Status](https://img.shields.io/website?url=https://asset-service-drive.onrender.com&label=asset-service&logo=Render)](https://asset-service-drive.onrender.com)      
   [![Service Status](https://img.shields.io/website?url=https://cron-job-service.fly.dev&label=cron-job-service&logo=Node.js)](https://cron-job-service.fly.dev) -->
 
 
-  ## 🙃 Fun Stuff
-  ![](https://komarev.com/ghpvc/?username=razznblue)
+  <!-- ## 🙃 Fun Stuff -->
 
-  <!--## Spotify -->
-  <!--![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=5&width=500&unique=true) -->
-  <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=5&width=500&unique=true) -->
+  <!-- ## Spotify
+  ![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=5&width=500&unique=true)
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=58xhvu3i5cgp5kyxztgtwmac1&count=5&width=500&unique=true) -->
 
 
   <!-- References -->
